@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Librairies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-action-1.6.5-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-core-1.6.2-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-plaf-1.6.5-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-core-1.6.5-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-common-1.6.5-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-graphics-1.6.5-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-painters-1.6.5-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Librairies/swingx-autocomplete-1.6.5-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
